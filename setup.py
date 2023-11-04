@@ -27,7 +27,7 @@ setup(
     packages=find_packages(),
     include_package_data = True,
     package_data={
-        'codedict': ['install/install.sh'],
+        'easyros': ['install/install.sh'],
     },
     long_description = long_description,
     long_description_content_type="text/markdown",
