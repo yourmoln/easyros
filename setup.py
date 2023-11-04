@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 import os
 info = {}
 PATH = os.path.dirname(os.path.abspath(__file__))
-with open(os.path.join(PATH, "easy/__version__.py"), 'r', encoding='utf8') as f:
+with open(os.path.join(PATH, "easyros/__version__.py"), 'r', encoding='utf8') as f:
     exec(f.read(), info)
 
 with open(os.path.join(PATH, "README.md"), 'r', encoding='utf8') as f:
