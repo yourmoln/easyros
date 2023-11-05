@@ -12,9 +12,9 @@ easyros
 ## 功能
 自动安装ros(包换源)  
 github链接转镜像  
-自动增加环境变量  
+自动创造工作空间  
 
 
 ## 其它
-ROS的环境安装过于复杂，使用我直接调用了鱼香的安装脚本 `https://github.com/fishros/install`  
+因为ROS的环境安装过于复杂，所以我直接调用了鱼香的安装脚本 `https://github.com/fishros/install`  
 
