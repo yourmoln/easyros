@@ -27,7 +27,7 @@ setup(
     packages=find_packages(),
     include_package_data = True,
     package_data={
-        'easyros': ['install/install.sh'],
+        'easyros': ['*/*.sh'],
     },
     long_description = long_description,
     long_description_content_type="text/markdown",

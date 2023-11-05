@@ -1,3 +1,4 @@
+#!/bin/bash
 wget http://fishros.com/install -O fishros
 chmod 777 ./fishros
 ./fishros << EOF
