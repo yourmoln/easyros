@@ -1,5 +1,5 @@
 __name__    = "easyros"
-__version__ = "0.0.6"
+__version__ = "0.0.7"
 __author__   = "yourmoln"
 __author_email__ = "yourmoln@outlook.com"
 __url__     = "https://github.com/yourmoln/easyros"
