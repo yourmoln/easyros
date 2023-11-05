@@ -1,17 +1,20 @@
 # easyros
-auto install and build ros
+ros的安装与开发工具
 
-## Need
+## 使用环境
 Ubuntun 20.04.6 LTS
-## Use
+## 使用指令
 ```
 pip install easyros
 easyros
 ```
 
-## How can it do now?
-install ros simply
+## 功能
+自动安装ros(包换源)  
+github链接转镜像  
+自动增加环境变量  
 
-## Other
-Because I didn't know how to install, I used `https://github.com/fishros/install`  
-Thank it
+
+## 其它
+ROS的环境安装过于复杂，使用我直接调用了鱼香的安装脚本 `https://github.com/fishros/install`  
+
