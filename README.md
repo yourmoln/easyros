@@ -2,7 +2,8 @@
 ros的安装与开发工具
 
 ## 使用环境
-Ubuntun 20.04.6 LTS
+Ubuntun 20.04.6 LTS  
+ros仅限在该系统安装noetic版本  
 ## 使用指令
 ```
 pip install easyros
