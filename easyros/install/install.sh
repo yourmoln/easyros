@@ -14,3 +14,4 @@ chmod 777 ./fishros
 3
 EOF
 rosdepc update
+source /opt/ros/noetic/local_setup.bash
