@@ -6,6 +6,9 @@ Ubuntun 20.04.6 LTS
 ros仅限在该系统安装noetic版本  
 ## 使用指令
 ```
+#换源指令（可选）
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
 pip install easyros
 easyros
 ```
